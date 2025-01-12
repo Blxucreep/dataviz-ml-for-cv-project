@@ -1,0 +1,3 @@
+# ignore image directories
+test/
+train/
